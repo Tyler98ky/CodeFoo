@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1490013294627"
+    timestamp="1490013829702"
     token="-3402099075666145795"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -24,13 +24,10 @@
         duration="0" />
 
     <artifact
-        location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
         location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -59,19 +56,19 @@
     <artifact
         location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
+    <artifact
+        location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1490013294627"
+        timestamp="1490013829702"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -100,6 +97,9 @@
         <artifact
             location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
