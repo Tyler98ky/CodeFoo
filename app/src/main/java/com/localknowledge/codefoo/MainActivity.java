@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ActionBar ab = getSupportActionBar();
-        Log.d("log", "ABOUT TO TRY AND SET LOGO");
 //        ab.setTitle("IGN Today");
         ab.setDisplayUseLogoEnabled(true);
         ab.setDisplayShowHomeEnabled(true);
