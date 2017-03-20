@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 //        ab.setTitle("IGN Today");
         ab.setDisplayUseLogoEnabled(true);
         ab.setDisplayShowHomeEnabled(true);
-        ab.setLogo(R.mipmap.ic_launcher_round);
+        ab.setLogo(R.mipmap.ic_launcher);
         ab.setBackgroundDrawable(new ColorDrawable(Color.parseColor("#fffafafa")));
         ab.setElevation(20);
 

@@ -43,7 +43,7 @@ MERGED from [com.android.support:support-compat:25.3.0] /Users/tylerhoward/.andr
 	android:hardwareAccelerated
 		ADDED from /Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/src/main/AndroidManifest.xml:11:9-43
 	android:roundIcon
-		ADDED from /Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/src/main/AndroidManifest.xml:14:9-48
 	android:allowBackup
 		ADDED from /Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/src/main/AndroidManifest.xml:10:9-35
 	android:icon

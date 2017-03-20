@@ -24,7 +24,7 @@ public class WebviewActivity extends AppCompatActivity {
         android.support.v7.app.ActionBar ab = getSupportActionBar();
         ab.setDisplayUseLogoEnabled(true);
         ab.setDisplayShowHomeEnabled(true);
-        ab.setLogo(R.mipmap.ic_launcher_round);
+//        ab.setLogo(R.mipmap.ic_launcher);
 
         ab.setElevation(50);
 
