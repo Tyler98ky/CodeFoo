@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_22e9d652e6ef5fb8218259738cce252043c16f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/6f24b58137e4ff8708c026b9ecb4684a01bb6ec0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_025f3874206fba1c81c603c3b057230a0faff595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/ec9db3b7b8df1cee458ee4912104b6015c171769/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9f5188c9bda94086d27bbfa9f516c3b9622b337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/4e1c335d0a90f63a850290a0310dc840b62380e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ab7f529485c2c57ec8987fc7bb21e9554afab6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0712d0e96a75c4ac9361233ead208413d38018e2">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ec73b69ea5ff107fcca922788f36123db702f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/5e271d9c2ccd1bdf41bb06382960041d2b66e809/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d26938878cab4e675161a207e07e6ff85a480c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_aa62b9c17f2dba00fd7a5bcef843d29d364d998d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/bdf86017c7a160dec08fc8b4f3e5dfbb1be5b94a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcef1ec32746354040ffe02328c992d471129d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/54f7e166d6dddb8be55d3555ce20162765e5a348/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbc01dd389b0e4ca0787a4bf4b17dd12cdb718fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/7046fbed8ee3843c341938027373c56c67680a99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4552fedd830fba120be2a15244921354ffd6f584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/80214e99e0ee37a82fd2d955e2d021c470a12400/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_feb1f449aeffbe8e558aa13afe5a1b7ef6fd2be3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/4cbd9ea11fb387d89e91353b2115c53b06cd8194/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e3d5e8930873e0318ce457933fa6e5b7cb8b3b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/5398701d05be361b19c072a30b07e2c22e847fc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8760fe4b9aaca56d61d99cf87c208c1cc728cf42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_e2ce83effdfcdf80ff4ede1e689dd72c210b6df1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/80b2ea186ffa17dd7b730d9cf7083bff0f199139/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac86e7da733f042b0e77fc933ee176073eabb9df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_a42cab689816eba0a87f3b22c3287e421093367b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ec86d5b033ced2d46fb6ba7bdbf1fec59bf15cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/6bfee5d05a6e58b5ddda9f0d3017656be8cfca5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_827fa5d9fcd8f685e18905dc1cb2c8595eea2262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/fa01fb9e9a116c93410dc35a25068bad004c2377/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c57b92c7d2497c780805e34d0d4ed1b545fd364d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylerhoward/.android/build-cache/d2055f4f32f36331e8fd866dd4703684f3350337/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f025c3f09b238307df468ae9ed4e45f84e4ca556/classes.dex" />
+    </item>
+
+</items>

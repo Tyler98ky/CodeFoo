@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/tylerhoward/.android/build-cache/6f24b58137e4ff8708c026b9ecb4684a01bb6ec0/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/tylerhoward/.android/build-cache/6f24b58137e4ff8708c026b9ecb4684a01bb6ec0/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/tylerhoward/AndroidStudioProjects/CodeFoo/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/tylerhoward/.android/build-cache/6f24b58137e4ff8708c026b9ecb4684a01bb6ec0/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]
