@@ -1,5 +1,9 @@
 # CodeFoo
-Android app for Code Foo
+This is the main repository for the source code for the android app.
+
+# Link for Chained Grid Challenge
+This is the link to the chained grid part of the application, in another repo.
+https://github.com/Tyler98ky/Code-Foo-Grid
 
 # Link for Youtube video
 IGN Code Foo 2017
