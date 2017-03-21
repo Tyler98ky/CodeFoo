@@ -1,6 +1,10 @@
 # CodeFoo
 This is the main repository for the source code for the android app.
 
+# Link for Lincoln Logs Empire State Building solution
+This is my solution to building the Empire State Building out of Lincoln Logs.
+https://github.com/Tyler98ky/CodeFoo/tree/master/Code%20Foo%20Lincoln%20Logs
+
 # Link for Chained Grid Challenge
 This is the link to the chained grid part of the application, in another repo.
 https://github.com/Tyler98ky/Code-Foo-Grid
