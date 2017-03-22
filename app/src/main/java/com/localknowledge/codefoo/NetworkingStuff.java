@@ -1,7 +1,6 @@
 package com.localknowledge.codefoo;
 
 import android.os.AsyncTask;
-import android.util.Log;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
